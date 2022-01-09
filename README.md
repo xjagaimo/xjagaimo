@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [linkedin]: https://www.linkedin.com/in/nathan-praja-kusuma-1136a4219/
-[email]: nathanpk1902@gmail.com
+[email]: mailto:nathanpk1902@gmail.com
