@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!-- Github stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjagaimo)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Reach me!:
+### 📫 Reach me here!:
 [<img align="left" alt="Nathan | LinkedIn" width="30px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
-[<img align="left" alt="nathan_p.k | Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Nathan | Email" width="30px" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/000000/external-email-essential-collection-bearicons-outline-color-bearicons.png" />][email]
 
 <br />
 <br />
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [linkedin]: https://www.linkedin.com/in/nathan-praja-kusuma-1136a4219/
-[instagram]: https://www.instagram.com/nathan_p.k/
+[email]: nathanpk1902@gmail.com
